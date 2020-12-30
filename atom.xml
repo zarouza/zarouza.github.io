@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarouza.github.io</id>
-    <title>zarou blog</title>
-    <updated>2020-12-30T14:04:04.604Z</updated>
+    <title>zarou&apos;s blog</title>
+    <updated>2020-12-30T14:06:02.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zarouza.github.io"/>
     <link rel="self" href="https://zarouza.github.io/atom.xml"/>
-    <subtitle>zarou</subtitle>
+    <subtitle>Keep silence</subtitle>
     <logo>https://zarouza.github.io/images/avatar.png</logo>
     <icon>https://zarouza.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, zarou blog</rights>
+    <rights>All rights reserved 2020, zarou&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zarouza.github.io/post/hello-gridea/</id>
