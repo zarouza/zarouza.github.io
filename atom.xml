@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zarouza.github.io</id>
     <title>zarou&apos;s blog</title>
-    <updated>2021-01-01T05:04:29.803Z</updated>
+    <updated>2021-01-01T05:19:49.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zarouza.github.io"/>
     <link rel="self" href="https://zarouza.github.io/atom.xml"/>
@@ -18,17 +18,20 @@
         <updated>2021-01-01T04:33:42.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://zarouza.github.io/post-images/1609477274394.png" alt="" loading="lazy"></figure>
 <h1 id="开年新篇徐徐前行">开年新篇，徐徐前行......</h1>
-<p>今天是2021开年第一天，此刻的我正在写这篇个人博客的第一篇文章，思来想去还是写点关于这个个人Blog的一点由来......<br>
-建立个人Blog的初衷是为了记录一下个人的学习生活的点滴，算是以这种方式激励自己慢慢成长，主要是督促自己记录学习的相关知识，或许n年后再来看会有不一样的感受吧。<br>
-说下这个个人Blog的主要记录的几个方面吧：</p>
+<p><br/>今天是2021开年第一天，此刻正在写个人<strong>Blog</strong>的首篇，首篇的主题还是写点关于这个个人<strong>Blog</strong>的由来......<br>
+<br/>建立个人<strong>Blog</strong>的初衷是记录个人的学习生活的相关情况，算是以这种方式激励自己慢慢成长，主要是督促自己总结学习的相关知识，或许n年后再来看会有不一样的感受吧。</p>
+<p>说下个人<strong>Blog</strong>主要记录的几个方面：</p>
 <ol>
 <li>工作能力养成记录</li>
 <li>电子学理论基础</li>
 <li>电路设计要点</li>
 <li>经验之谈</li>
+<li>软件杂谈</li>
+<li>特殊技巧</li>
 </ol>
 <p>打个断点 ---<br>
-增加第5点-软件杂谈</p>
+增加第5点-软件杂谈<br>
+增加第6点-特殊技巧</p>
 ]]></content>
     </entry>
 </feed>
